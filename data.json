@@ -1,0 +1,256 @@
+{
+  "currentRound": 2,
+  "activeTab": "members",
+  "rounds": {
+    "1": {
+      "date": "2025-11-15",
+      "completed": true,
+      "members": [
+        {
+          "id": "m_1795357443341",
+          "name": "조서연",
+          "active": true,
+          "currentBookId": "b_1795357477578_63",
+          "monthStatus": "finished"
+        },
+        {
+          "id": "m_1795357455540",
+          "name": "조수빈",
+          "active": true,
+          "currentBookId": "b_1795357455540_51",
+          "monthStatus": "absent"
+        },
+        {
+          "id": "m_1795357463314",
+          "name": "장효원",
+          "active": true,
+          "currentBookId": "b_1795357470537_57",
+          "monthStatus": "finished"
+        },
+        {
+          "id": "m_1795357470537",
+          "name": "장유진",
+          "active": true,
+          "currentBookId": "b_1795357463314_25",
+          "monthStatus": "finished"
+        },
+        {
+          "id": "m_1795357477578",
+          "name": "오세은",
+          "active": true,
+          "currentBookId": "b_1795357443341_50",
+          "monthStatus": "finished"
+        }
+      ],
+      "books": [
+        {
+          "id": "b_1795357443341_50",
+          "title": "달과6펜스",
+          "ownerId": "m_1795357443341"
+        },
+        {
+          "id": "b_1795357455540_51",
+          "title": "각각의 계절",
+          "ownerId": "m_1795357455540"
+        },
+        {
+          "id": "b_1795357463314_25",
+          "title": "자몽살구클럽",
+          "ownerId": "m_1795357463314"
+        },
+        {
+          "id": "b_1795357470537_57",
+          "title": "디디의 우산",
+          "ownerId": "m_1795357470537"
+        },
+        {
+          "id": "b_1795357477578_63",
+          "title": "지구에서 한아뿐",
+          "ownerId": "m_1795357477578"
+        }
+      ],
+      "graduatedBooks": [],
+      "matrix": {
+        "m_1795357443341": {
+          "b_1795357443341_50": "finished",
+          "b_1795357455540_51": "unread",
+          "b_1795357463314_25": "unread",
+          "b_1795357470537_57": "unread",
+          "b_1795357477578_63": "reading"
+        },
+        "m_1795357455540": {
+          "b_1795357443341_50": "unread",
+          "b_1795357455540_51": "finished",
+          "b_1795357463314_25": "unread",
+          "b_1795357470537_57": "unread",
+          "b_1795357477578_63": "unread"
+        },
+        "m_1795357463314": {
+          "b_1795357443341_50": "unread",
+          "b_1795357455540_51": "unread",
+          "b_1795357463314_25": "finished",
+          "b_1795357470537_57": "reading",
+          "b_1795357477578_63": "unread"
+        },
+        "m_1795357470537": {
+          "b_1795357443341_50": "unread",
+          "b_1795357455540_51": "unread",
+          "b_1795357463314_25": "reading",
+          "b_1795357470537_57": "finished",
+          "b_1795357477578_63": "unread"
+        },
+        "m_1795357477578": {
+          "b_1795357443341_50": "reading",
+          "b_1795357455540_51": "unread",
+          "b_1795357463314_25": "unread",
+          "b_1795357470537_57": "unread",
+          "b_1795357477578_63": "finished"
+        }
+      }
+    },
+    "2": {
+      "date": "2025-12-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "3": {
+      "date": "2026-01-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "4": {
+      "date": "2026-02-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "5": {
+      "date": "2026-03-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "6": {
+      "date": "2026-04-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "7": {
+      "date": "2026-05-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "8": {
+      "date": "2026-06-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "9": {
+      "date": "2026-07-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "10": {
+      "date": "2026-08-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "11": {
+      "date": "2026-09-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "12": {
+      "date": "2026-10-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    },
+    "13": {
+      "date": "2026-11-15",
+      "completed": false,
+      "members": [],
+      "books": [],
+      "graduatedBooks": [],
+      "matrix": {}
+    }
+  },
+  "history": [
+    {
+      "round": "1회차",
+      "date": "2025-11-15",
+      "memberName": "조수빈",
+      "oldBook": "각각의 계절",
+      "statusLabel": "불참",
+      "newBook": "각각의 계절 (유지)",
+      "note": "다음 모임에서 교환"
+    },
+    {
+      "round": "1회차",
+      "date": "2025-11-15",
+      "memberName": "오세은",
+      "oldBook": "지구에서 한아뿐",
+      "statusLabel": "완독",
+      "newBook": "달과6펜스",
+      "note": "총무 수동 수정됨"
+    },
+    {
+      "round": "1회차",
+      "date": "2025-11-15",
+      "memberName": "장유진",
+      "oldBook": "디디의 우산",
+      "statusLabel": "완독",
+      "newBook": "자몽살구클럽",
+      "note": "총무 수동 수정됨"
+    },
+    {
+      "round": "1회차",
+      "date": "2025-11-15",
+      "memberName": "장효원",
+      "oldBook": "자몽살구클럽",
+      "statusLabel": "완독",
+      "newBook": "디디의 우산",
+      "note": "총무 수동 수정됨"
+    },
+    {
+      "round": "1회차",
+      "date": "2025-11-15",
+      "memberName": "조서연",
+      "oldBook": "달과6펜스",
+      "statusLabel": "완독",
+      "newBook": "지구에서 한아뿐",
+      "note": "총무 수동 수정됨"
+    }
+  ],
+  "extraBooks": []
+}
